@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Дарья Надоша](https://up.htmlacademy.ru/ecmascript/20/user/1759279).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин] (https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
