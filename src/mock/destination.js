@@ -19,7 +19,7 @@ const mockDestinations = [
         src: 'https://loremflickr.com/248/152?random=3',
         description: 'City 03'
       },
-    ],
+    ]
   },
 
   {
@@ -39,7 +39,7 @@ const mockDestinations = [
         src: 'https://loremflickr.com/248/152?random=6',
         description: 'City 06'
       },
-    ],
+    ]
   },
 
   {
@@ -59,7 +59,7 @@ const mockDestinations = [
         src: 'https://loremflickr.com/248/152?random=9',
         description: 'City 09'
       },
-    ],
+    ]
   },
 
 ];

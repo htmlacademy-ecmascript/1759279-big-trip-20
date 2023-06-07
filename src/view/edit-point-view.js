@@ -28,8 +28,9 @@ const createDestinationOptionTemplate = () => cities.map((city) =>
 function createEditPoint(point, destination, offers) {
   const {pointPrice, dateFrom, dateTo, type} = point;
 
-  const photosList = destination.photos.map((photo) =>
-    ` <img class="event__photo" src="${photo.src}" alt="${photo.description}">`).join('');
+  const photosList = destination.photos
+    .map((photo) => `<img class="event__photo" src="${photo.src}" alt="${photo.description}">`)
+    .join('');
 
   const isChecked = (offer) => point.offers.includes(offer.id) ? 'checked' : '';
 
